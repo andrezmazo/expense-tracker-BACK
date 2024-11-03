@@ -7,6 +7,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
+      "https://andrezmazo.github.io",
       "https://andrezmazo.github.io/expense-tracker",
     ],
   })
